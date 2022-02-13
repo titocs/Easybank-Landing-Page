@@ -133,6 +133,12 @@ header > .button-request {
     background-color: transparent;
 }
 
+.hamburger-icon > img {
+    max-width: 25px;
+    max-height: 15px;
+    transition: 0.3s;
+}
+
 /* === MAIN === */
 .contentPadding {
     padding: 2rem;
