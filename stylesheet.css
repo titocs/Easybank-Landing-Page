@@ -282,6 +282,10 @@ header > .button-request {
     margin-bottom: 1.5rem;
 }
 
+.content-article:hover {
+    cursor: pointer;
+}
+
 .content-article h2 {
     color: var(--Dark-Blue);
     margin-bottom: 0.7rem;
